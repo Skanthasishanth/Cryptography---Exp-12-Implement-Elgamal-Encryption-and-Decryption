@@ -1,10 +1,10 @@
-# Cryptography---Exp-12-Implement-Elgamal-Encryption-and-Decryption
+# Exp-12 Implement Elgamal Encryption and Decryption
 
 ## AIM:
 
 To encrypt and decrypt a message using the ElGamal encryption algorithm.
 
-## ALGORITHM:
+## DESIGN STEPS:
 
 ### Step 1:
 
